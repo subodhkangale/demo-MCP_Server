@@ -1,10 +1,3 @@
-Below is a **clean, developer-level `README.md`** you can drop directly into your project.
-It’s written assuming **Node.js + Claude Desktop + MCP**, and it matches the modular architecture you built.
-
-You can copy-paste this **as-is**.
-
----
-
 ```md
 # Modular MCP Server (Node.js)
 
